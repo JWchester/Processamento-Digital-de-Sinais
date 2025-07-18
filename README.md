@@ -1,2 +1,5 @@
 # Processamento Digital de Sinais
-Repositório dedicado ao desenvolvimento de algoritmos relacionados a disciplina processamento Digital de sinais
+
+</br>
+
+A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da engenharia elétrica, eletrônica, telecomunicações e computação, que estuda técnicas para analisar, modificar e extrair informações de sinais no domínio digital. Nela, os sinais, que podem representar son, imagens, vídeos ou qualquer tipo de informação, são representados como sequências de números (amostras), permitindo o uso de algoritmos computacionais para processá-los.
