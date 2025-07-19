@@ -11,4 +11,6 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 </br>
 
 ## Amostragem
+Amostragem é o processo de converter um sinal analógico contínuo no tempo (como voz, música, temperatura) em um sinal discreto no tempo, ou seja, uma sequência de números. É o primeiro passo essencial no processamento digital de sinais.
 
+para mais informações e código implementado do zero cliue no link [aqui](https://youtu.be/ghpY6ShHug4).
