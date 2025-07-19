@@ -17,4 +17,4 @@ Amostragem é o processo de converter um sinal analógico contínuo no tempo (co
   <img src="Images/2 - Amostragem.png" width="700" />
 </p>
 
-para mais informações e código implementado do zero clique no link [aqui](https://youtu.be/ghpY6ShHug4).
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/Amostragem.ipynb).
