@@ -31,6 +31,7 @@ A Série de Fourier é uma ferramenta matemática que permite representar funç�
 </p>
 
 </br>
+
 para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/1%20-%20Amostragem/Amostragem.ipynb).
 
 
