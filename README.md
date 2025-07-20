@@ -13,7 +13,7 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 <h1 align="center"> Professor Responsável pela Disciplina</h1>
 
 <p align="center">
-  <img src="Images\7 - Professor.png" width="700"  />
+  <img src="Images\7 - Professor.png" width="300"  />
 </p>
 
 <p align="center">
