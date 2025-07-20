@@ -24,8 +24,37 @@ para mais informações e código implementado do zero clique no link [aqui](htt
 ## Série de Fourier
 A Série de Fourier é uma ferramenta matemática que permite representar funções periódicas como uma soma de senos e cossenos (ou exponenciais complexas). Criada por Jean-Baptiste Joseph Fourier, essa série decompõe uma função complexa em ondas senoidais mais simples, chamadas de harmônicas.
 
+</br>
+
 <p align="center">
   <img src="Images\3 - Série de Fourier.png" width="700" />
 </p>
 
+</br>
 para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/2%20-%20S%C3%A9rie%20de%20Fourier/Serie%20de%20Fourier.ipynb).
+
+
+
+## Transformada Discreta de Fourier
+A DFT transforma uma sequência de valores no domínio do tempo em uma sequência de valores no domínio da frequência. Ou seja, ela mostra quais frequências estão presentes em um sinal e com que intensidade.
+
+</br>
+
+<p align="center">
+  <img src="Images\4 - Transformada Discreta de Fourier (DFT).png" width="700" />
+</p>
+
+</br>
+
+## Transformada Rápida de Fourier
+A FFT (Fast Fourier Transform), ou Transformada Rápida de Fourier, é um algoritmo eficiente para calcular a DFT (Transformada Discreta de Fourier) de uma sequência de dados.
+
+</br>
+
+<p align="center">
+  <img src="Images\5 - Transformada Rápida de Fourier (FFT).png" width="700" />
+</p>
+
+</br>
+
+
