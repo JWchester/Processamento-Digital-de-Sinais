@@ -31,7 +31,7 @@ A Série de Fourier é uma ferramenta matemática que permite representar funç�
 </p>
 
 </br>
-para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/2%20-%20S%C3%A9rie%20de%20Fourier/Serie%20de%20Fourier.ipynb).
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/Amostragem.ipynb).
 
 
 
@@ -46,6 +46,10 @@ A DFT transforma uma sequência de valores no domínio do tempo em uma sequênci
 
 </br>
 
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/3%20-%20Transformada%20Discreta%20de%20Fourier%20(DFT)/Transformada%20Discreta%20de%20Fourier%20(DFT).ipynb).
+
+
+
 ## Transformada Rápida de Fourier
 A FFT (Fast Fourier Transform), ou Transformada Rápida de Fourier, é um algoritmo eficiente para calcular a DFT (Transformada Discreta de Fourier) de uma sequência de dados.
 
@@ -57,4 +61,4 @@ A FFT (Fast Fourier Transform), ou Transformada Rápida de Fourier, é um algori
 
 </br>
 
-
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/4%20-%20Transformada%20R%C3%A1pida%20de%20Fourier(FFT)/Transformada_R%C3%A1pida_de_Fourier(FFT).ipynb).
