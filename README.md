@@ -17,7 +17,7 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
   Professor do Departamento de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG) </br>
   Github: https://github.com/ecandeia 
 </p>
-<h1 align="center"> </h1>
+
 
 
 </br>
