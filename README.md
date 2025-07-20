@@ -27,3 +27,5 @@ A Série de Fourier é uma ferramenta matemática que permite representar funç�
 <p align="center">
   <img src="Images\3 - Série de Fourier.png" width="700" />
 </p>
+
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/2%20-%20S%C3%A9rie%20de%20Fourier/Serie%20de%20Fourier.ipynb).
