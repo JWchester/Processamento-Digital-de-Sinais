@@ -15,11 +15,13 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 <p align="center">
   <img src="Images\7 - Professor.png"  />
 </p>
+
+<h1 align="center"> Professor Responsável pela Disciplina</h1>
+
 <p align="center">
   Dr. Edmar Candeia Gurjão </br>
-  Professor do Departamento de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG)
+  Professor do Departamento de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG) </br>
   Github: https://github.com/ecandeia 
-
 </p>
 
 
