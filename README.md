@@ -10,6 +10,22 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 
 </br>
 
+### Professor Responsável pela Disciplina
+
+<p align="center">
+  <img src="Images\7 - Professor.png"  />
+</p>
+<p align="center">
+  Dr. Edmar Candeia Gurjão </br>
+  Professor do Departamento de Engenharia Elétrica da Universidade Federal de Campina Grande (UFCG)
+  Github: https://github.com/ecandeia 
+
+</p>
+
+
+</br>
+
+
 ## Amostragem
 Amostragem é o processo de converter um sinal analógico contínuo no tempo (como voz, música, temperatura) em um sinal discreto no tempo, ou seja, uma sequência de números. É o primeiro passo essencial no processamento digital de sinais.
 
