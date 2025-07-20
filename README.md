@@ -18,3 +18,12 @@ Amostragem é o processo de converter um sinal analógico contínuo no tempo (co
 </p>
 
 para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/Amostragem.ipynb).
+
+
+
+## Série de Fourier
+A Série de Fourier é uma ferramenta matemática que permite representar funções periódicas como uma soma de senos e cossenos (ou exponenciais complexas). Criada por Jean-Baptiste Joseph Fourier, essa série decompõe uma função complexa em ondas senoidais mais simples, chamadas de harmônicas.
+
+<p align="center">
+  <img src="Images\3 - Série de Fourier.png" width="700" />
+</p>
