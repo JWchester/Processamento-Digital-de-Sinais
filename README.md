@@ -9,7 +9,7 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 </p>
 <h1 align="center"> Professor Responsável pela Disciplina</h1>
 <p align="center">
-  <img src="Images\7 - Professor.png" width="450"  />
+  <img src="Images\7 - Professor.png" width="400"  />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ A disciplina Processamento DIgital de Sinais (PDS) é uma área fundamental da e
 Amostragem é o processo de converter um sinal analógico contínuo no tempo (como voz, música, temperatura) em um sinal discreto no tempo, ou seja, uma sequência de números. É o primeiro passo essencial no processamento digital de sinais.
 
 <p align="center">
-  <img src="Images/2 - Amostragem.png" width="700" />
+  <img src="Images/2 - Amostragem.png" width="800" />
 </p>
 
 para mais informações e código implementado do zero clique no link abaixo para visualização:
@@ -47,7 +47,7 @@ A Série de Fourier é uma ferramenta matemática que permite representar funç�
 </br>
 
 <p align="center">
-  <img src="Images\3 - Série de Fourier.png" width="700" />
+  <img src="Images\3 - Série de Fourier.png" width="800" />
 </p>
 
 </br>
@@ -68,7 +68,7 @@ A DFT transforma uma sequência de valores no domínio do tempo em uma sequênci
 </br>
 
 <p align="center">
-  <img src="Images\4 - Transformada Discreta de Fourier (DFT).png" width="700" />
+  <img src="Images\4 - Transformada Discreta de Fourier (DFT).png" width="800" />
 </p>
 
 </br>
@@ -90,7 +90,7 @@ A FFT (Fast Fourier Transform), ou Transformada Rápida de Fourier, é um algori
 </br>
 
 <p align="center">
-  <img src="Images\5 - Transformada Rápida de Fourier (FFT).png" width="700" />
+  <img src="Images\5 - Transformada Rápida de Fourier (FFT).png" width="800" />
 </p>
 
 </br>
