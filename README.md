@@ -30,8 +30,13 @@ Amostragem é o processo de converter um sinal analógico contínuo no tempo (co
   <img src="Images/2 - Amostragem.png" width="700" />
 </p>
 
-para mais informações e código implementado do zero clique no link: [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JWchester/Processamento-Digital-de-Sinais/blob/main/1%20-%20Amostragem/Amostragem.ipynb)
+para mais informações e código implementado do zero clique no link:
 
+<p align="center">
+  <a href="https://colab.research.google.com/github/JWchester/Processamento-Digital-de-Sinais/blob/main/1%20-%20Amostragem/Amostragem.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+  </a>
+</p>
 
 
 ## Série de Fourier
