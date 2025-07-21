@@ -30,7 +30,7 @@ Amostragem é o processo de converter um sinal analógico contínuo no tempo (co
   <img src="Images/2 - Amostragem.png" width="700" />
 </p>
 
-para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/Amostragem.ipynb).
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/1%20-%20Amostragem/Amostragem.ipynb).
 
 
 
@@ -45,7 +45,7 @@ A Série de Fourier é uma ferramenta matemática que permite representar funç�
 
 </br>
 
-para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/1%20-%20Amostragem/Amostragem.ipynb).
+para mais informações e código implementado do zero clique no link [aqui](https://github.com/JWchester/Processamento-Digital-de-Sinais/blob/main/2%20-%20S%C3%A9rie%20de%20Fourier/Serie%20de%20Fourier.ipynb).
 
 
 
