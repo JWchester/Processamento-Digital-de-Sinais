@@ -123,7 +123,7 @@ para mais informações e código implementado do zero clique no link abaixo par
 </br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+  <a href="https://colab.research.google.com/drive/1sUhx4K4VWEDE4mNxhbo96iVquuWGiW1L?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
   </a>
 </p>
@@ -148,7 +148,7 @@ para mais informações e código implementado do zero clique no link abaixo par
 </br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+  <a href="https://colab.research.google.com/drive/1q29Vvo9IcSwZiyrVbAdxbb4LkP7SiLRt?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
   </a>
 </p>
@@ -172,7 +172,7 @@ para mais informações e código implementado do zero clique no link abaixo par
 </br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+  <a href="https://colab.research.google.com/drive/185osf5kAfRmJODLYCtP9weB_iGBx61sF?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
   </a>
 </p>
@@ -194,7 +194,7 @@ para mais informações e código implementado do zero clique no link abaixo par
 </br>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+  <a href="https://colab.research.google.com/drive/1o0K2L0i0HsCajaoFKDm7CF9k1hozJWpa?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
   </a>
 </p>
