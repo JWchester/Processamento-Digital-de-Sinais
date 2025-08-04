@@ -105,3 +105,96 @@ para mais informações e código implementado do zero clique no link abaixo par
   </a>
 </p>
 
+
+
+## Convolução Linear
+A convolução linear é uma operação matemática que combina dois sinais para produzir um terceiro sinal. Em processamento de sinais, ela mostra como a forma de um sinal é modificada por outro, geralmente representando a resposta de um sistema a um estímulo.
+
+</br>
+
+<p align="center">
+  <img src="" width="800" />
+</p>
+
+</br>
+
+para mais informações e código implementado do zero clique no link abaixo para visualização:
+
+</br>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+  </a>
+</p>
+
+
+
+## Convolução Circular
+A convolução circular é uma variação da convolução usada principalmente em sistemas e sinais periódicos ou em algoritmos baseados em Transformada Discreta de Fourier (DFT).
+
+Diferente da convolução linear, que assume sinais de duração infinita (ou com preenchimento por zeros), a convolução circular "envia de volta" os valores que ultrapassam os limites do sinal, como se ele fosse circular ou repetido.
+
+</br>
+
+<p align="center">
+  <img src="" width="800" />
+</p>
+
+</br>
+
+para mais informações e código implementado do zero clique no link abaixo para visualização:
+
+</br>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+  </a>
+</p>
+
+
+## convolução usando FFT (Fast Fourier Transform)
+A convolução usando FFT (Fast Fourier Transform) é uma técnica eficiente para calcular a convolução entre dois sinais, especialmente quando eles são longos.
+
+Em vez de calcular diretamente a convolução no domínio do tempo (o que pode ser computacionalmente custoso), os sinais são transformados para o domínio da frequência usando a FFT. Nesse domínio, a convolução se transforma em uma multiplicação ponto a ponto, o que é muito mais rápido.
+
+</br>
+
+<p align="center">
+  <img src="" width="800" />
+</p>
+
+</br>
+
+para mais informações e código implementado do zero clique no link abaixo para visualização:
+
+</br>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+  </a>
+</p>
+
+
+## Convolução por Partes (overlap-add)
+A convolução por partes (overlap-add) é um método eficiente para calcular a convolução linear de sinais longos com uma resposta ao impulso curta.
+
+</br>
+
+<p align="center">
+  <img src="" width="800" />
+</p>
+
+</br>
+
+para mais informações e código implementado do zero clique no link abaixo para visualização:
+
+</br>
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/11jT2hwzBOGkirSVhjuuHdqnnT6yU1FwB?usp=drive_link">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab">
+  </a>
+</p>
